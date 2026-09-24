@@ -1,5 +1,5 @@
-h1 align="center">Hi 👋, I'm Maximiliano Jimenez</h1>
-<h3 align="center">Electronics Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Maximiliano Jimenez</h1>
+<h3 align="center">I'm studying in an electronic engineering career at Universidad Tecnológica Nacional Facultad Regional Mendoza</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
